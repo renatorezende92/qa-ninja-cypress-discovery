@@ -1,0 +1,50 @@
+{
+    "signup": {
+       "name": "Renato Lisboa",
+        "cpf": "11111111110",
+        "email": "renato@lisboa.com",
+        "whatsapp": "81999999999",
+        "address": {
+            "postalCode": "50790000",
+            "street": "Rua Leandro Barreto",
+            "number": "355",
+            "details": "cond felipe camarao",
+            "district": "Jardim São Paulo",
+            "city_state": "Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Renato Lisboa",
+        "cpf": "1111DD1110AA",
+        "email": "renato@lisboa.com",
+        "whatsapp": "81999999999",
+        "address": {
+            "postalCode": "50790000",
+            "street": "Rua Leandro Barreto",
+            "number": "355",
+            "details": "cond felipe camarao",
+            "district": "Jardim São Paulo",
+            "city_state": "Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }, 
+    "email_inv": {
+        "name": "Renato Lisboa",
+         "cpf": "11111111110",
+         "email": "renato.lisboa.com",
+         "whatsapp": "81999999999",
+         "address": {
+             "postalCode": "50790000",
+             "street": "Rua Leandro Barreto",
+             "number": "355",
+             "details": "cond felipe camarao",
+             "district": "Jardim São Paulo",
+             "city_state": "Recife/PE"
+         },
+         "delivery_method": "Moto",
+         "cnh": "cnh-digital.jpg"
+     }
+}
